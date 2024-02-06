@@ -1,0 +1,11 @@
+{
+  "name": "mernstacktrelloclone",
+  "version": "1.0.0",
+  "description": "Mern stack trello clone app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "giang vu",
+  "license": "MIT"
+}
